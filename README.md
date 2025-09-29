@@ -69,41 +69,41 @@ In conclusion, my position allows me to do the work quickly and develop software
 </p> -->
 
 <p align="center">
-  <img src="src/tech/logo/svg/python.svg" alt="Python" width="40" style="margin:0 10px"/>
-  <img src="src/tech/logo/svg/fastapi.svg" alt="FastAPI" width="40" style="margin:0 10px"/>
-  <img src="src/tech/logo/svg/flask.svg" alt="Flask" width="40" style="margin:0 10px"/>
-  <img src="src/tech/logo/svg/django.svg" alt="Django" width="40" style="margin:0 10px"/>
-  <img src="src/tech/logo/svg/celery.svg" alt="Celery" width="40" style="margin:0 10px"/>
-  <img src="src/tech/logo/svg/sqlalchemy.svg" alt="SQLAlchemy" width="40" style="margin:0 10px"/>
+  <img src="src/tech/logo/svg/python.svg" alt="Python" width="40"/>&nbsp;&nbsp
+  <img src="src/tech/logo/svg/fastapi.svg" alt="FastAPI" width="40"/>&nbsp;&nbsp
+  <img src="src/tech/logo/svg/flask.svg" alt="Flask" width="40"/>&nbsp;&nbsp
+  <img src="src/tech/logo/svg/django.svg" alt="Django" width="40"/>&nbsp;&nbsp
+  <img src="src/tech/logo/svg/celery.svg" alt="Celery" width="40"/>&nbsp;&nbsp
+  <img src="src/tech/logo/svg/sqlalchemy.svg" alt="SQLAlchemy" width="40"/>&nbsp;&nbsp
 </p>
 
 
 <p align="center">
-  <img src="src/tech/logo/svg/javascript.svg" alt="JavaScript" width="40" style="margin:0 10px"/>
-  <img src="src/tech/logo/svg/typescript.svg" alt="JavaScript" width="40" style="margin:0 10px"/>
-  <img src="src/tech/logo/svg/nodedotjs.svg" alt="Node.js" width="40" style="margin:0 10px"/>
-  <img src="src/tech/logo/svg/express.svg" alt="Express" width="40" style="margin:0 10px"/>
-  <img src="src/tech/logo/svg/nestjs.svg" alt="NestJS" width="40" style="margin:0 10px"/>
-  <img src="src/tech/logo/svg/nextdotjs.svg" alt="Next.js" width="40" style="margin:0 10px"/>
-  <img src="src/tech/logo/svg/html5.svg" alt="HTML5" width="40" style="margin:0 10px"/>
-  <img src="src/tech/logo/svg/css.svg" alt="CSS" width="40" style="margin:0 10px"/>
+  <img src="src/tech/logo/svg/javascript.svg" alt="JavaScript" width="40"/>&nbsp;&nbsp
+  <img src="src/tech/logo/svg/typescript.svg" alt="JavaScript" width="40"/>&nbsp;&nbsp
+  <img src="src/tech/logo/svg/nodedotjs.svg" alt="Node.js" width="40"/>&nbsp;&nbsp
+  <img src="src/tech/logo/svg/express.svg" alt="Express" width="40"/>&nbsp;&nbsp
+  <img src="src/tech/logo/svg/nestjs.svg" alt="NestJS" width="40"/>&nbsp;&nbsp
+  <img src="src/tech/logo/svg/nextdotjs.svg" alt="Next.js" width="40"/>&nbsp;&nbsp
+  <img src="src/tech/logo/svg/html5.svg" alt="HTML5" width="40"/>&nbsp;&nbsp
+  <img src="src/tech/logo/svg/css.svg" alt="CSS" width="40"/>&nbsp;&nbsp
 </p>
 
 <p align="center">
-  <img src="src/tech/logo/svg/postgresql.svg" alt="PostgreSQL" width="40" style="margin:0 10px"/>
-  <img src="src/tech/logo/svg/redis.svg" alt="Redis" width="40" style="margin:0 10px"/>
-  <img src="src/tech/logo/svg/mongodb.svg" alt="MongoDB" width="40" style="margin:0 10px"/>
-  <img src="src/tech/logo/svg/rabbitmq.svg" alt="RabbitMQ" width="40" style="margin:0 10px"/>
-  <img src="src/tech/logo/svg/sqlite.svg" alt="SQLite" width="40" style="margin:0 10px"/>
+  <img src="src/tech/logo/svg/postgresql.svg" alt="PostgreSQL" width="40"/>&nbsp;&nbsp
+  <img src="src/tech/logo/svg/redis.svg" alt="Redis" width="40"/>&nbsp;&nbsp
+  <img src="src/tech/logo/svg/mongodb.svg" alt="MongoDB" width="40"/>&nbsp;&nbsp
+  <img src="src/tech/logo/svg/rabbitmq.svg" alt="RabbitMQ" width="40"/>&nbsp;&nbsp
+  <img src="src/tech/logo/svg/sqlite.svg" alt="SQLite" width="40"/>&nbsp;&nbsp
 </p>
 
 
 <p align="center">
-  <img src="src/tech/logo/svg/git.svg" alt="Git" width="40" style="margin:0 10px"/>
-  <img src="src/tech/logo/svg/github.svg" alt="GitHub" width="40" style="margin:0 10px"/>
-  <img src="src/tech/logo/svg/gitlab.svg" alt="GitLab" width="40" style="margin:0 10px"/>
-  <img src="src/tech/logo/svg/docker.svg" alt="Docker" width="40" style="margin:0 10px"/>
-  <img src="src/tech/logo/svg/swagger.svg" alt="Swagger" width="40" style="margin:0 10px"/>
+  <img src="src/tech/logo/svg/git.svg" alt="Git" width="40"/>&nbsp;&nbsp
+  <img src="src/tech/logo/svg/github.svg" alt="GitHub" width="40"/>&nbsp;&nbsp
+  <img src="src/tech/logo/svg/gitlab.svg" alt="GitLab" width="40"/>&nbsp;&nbsp
+  <img src="src/tech/logo/svg/docker.svg" alt="Docker" width="40"/>&nbsp;&nbsp
+  <img src="src/tech/logo/svg/swagger.svg" alt="Swagger" width="40"/>&nbsp;&nbsp
 </p>
 
 ## Education
