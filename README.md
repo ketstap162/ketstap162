@@ -81,6 +81,6 @@ In conclusion, my approach allows me to work efficiently and develop software wi
 
 
 ## Self-education
-- [Certifications](https://github.com/ketstap162/ketstap162/blob/main/files/certificates/certificates.md)
+- [Certificates](https://github.com/ketstap162/ketstap162/blob/main/files/certificates/certificates.md)
 - Mate academy course: "Python developer"
 - Udemy course: "The Complete Guide to Python 3
