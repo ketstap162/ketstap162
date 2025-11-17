@@ -74,7 +74,6 @@ In conclusion, my approach allows me to work efficiently and develop software wi
 - Bachelor's degree in Computer Science (specialty 122)
 - Bachelor's qualification work: 95/100 points
 - [Diploma](https://github.com/ketstap162/ketstap162/blob/main/files/diploma.pdf)
-- [Diploma](.files/diploma.pdf)
 
 
 ### Zhovti Vody Natural Science Lyceum (Graduated in 2019)
