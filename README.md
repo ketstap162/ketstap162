@@ -73,6 +73,8 @@ In conclusion, my approach allows me to work efficiently and develop software wi
 ### V. N. Karazin Kharkiv National University (2019-2023):
 - Bachelor's degree in Computer Science (specialty 122)
 - Bachelor's qualification work: 95/100 points
+- [Diploma](https://github.com/ketstap162/ketstap162/blob/main/files/diploma.pdf)
+- [Diploma](.files/diploma.pdf)
 
 
 ### Zhovti Vody Natural Science Lyceum (Graduated in 2019)
@@ -80,5 +82,6 @@ In conclusion, my approach allows me to work efficiently and develop software wi
 
 
 ## Self-education
+- [Certifications](https://github.com/ketstap162/ketstap162/blob/main/files/certificates/certificates.md)
 - Mate academy course: "Python developer"
-- Udemy course: "The Complete Guide to Python 3" ([certificate](https://www.udemy.com/certificate/UC-d945e39e-59b7-48f2-980e-2e5002ef307a/))
+- Udemy course: "The Complete Guide to Python 3
